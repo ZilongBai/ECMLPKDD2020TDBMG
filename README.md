@@ -5,7 +5,11 @@ Authors:
 
 Zilong Bai, S.S. Ravi, Ian Davidson
 
-NOTES: 
+NOTES on supplementary material PDF file:
+
+- Please find the proofs for our theorems and other details in ECMLPKDD2020TDBMG_supplementary_material.pdf
+
+NOTES on codes: 
 
 >Filenames with *test_* are demo programs for implementation or our methods and the baseline:
 
